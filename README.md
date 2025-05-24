@@ -53,7 +53,3 @@ Com base nessas informações, o Gemini cria um PDI com:
 
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir *issues* ou enviar um *pull request* com melhorias e sugestões.
-
-💙 Feito com dedicação para apoiar sua jornada de aprendizado.
----
-Se quiser, posso inserir o **link direto** para o notebook hospedado (por exemplo, via GitHub ou Google Drive). Deseja isso também?
