@@ -21,7 +21,6 @@ O gerador solicita que você informe:
 
 * 💡 Área de interesse
 * 🔍 Habilidades atuais
-* 🎯 Plano de ações
 * ⏱️ Horas disponíveis por semana
 * 📆 Tempo estimado para alcançar o objetivo
 * 🧠 Estilos de aprendizagem preferidos (ex: vídeos, leitura, prática)
@@ -45,7 +44,7 @@ Com base nessas informações, o Gemini cria um PDI com:
    * ▶️ Vá em `Executar > Executar tudo` (ou pressione `Ctrl + F9`)
    * ✏️ Preencha os campos com suas informações
 3. ✅ Visualize seu PDI gerado com formatação adaptativa (claro/escuro)
-4. 💾 Clique em **Salvar PDI** para baixar em `.txt` e `.json`
+4. 💾 Ao final ele perginta se você deseja baixar ou não baixar o PDI em `.txt` e `.json`
 
 ---
 
